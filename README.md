@@ -3,5 +3,6 @@ Based on https://www.tutorialrepublic.com/php-tutorial/php-mysql-login-system.ph
 Most of the code has been implemented with ChatGPT, so it might contain errors.
 Configure config.php to set your own database
 Import demo.sql into your database, and set it up in config.php.
+Tested in XAMPP
 ## Credits
 [Tutorial Republic](https://www.tutorialrepublic.com/php-tutorial/php-mysql-login-system.php)
